@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/6.png</file>
+        <file>image/4434-wallpaper-fantasy-sepik.jpg</file>
+        <file>image/08569-ukraine-ukrainians-maidan-kyiv.jpg</file>
+        <file>image/9292-skyrim-wallpaper-wallpapers.jpg</file>
+        <file>image/038975-fan-art-marvel-comics-silver-surfer.jpg</file>
+        <file>image/70163-studio-ghibli-spirited-away.jpg</file>
+        <file>image/timg.jpg</file>
+        <file>recoder.txt</file>
+    </qresource>
+</RCC>

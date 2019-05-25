@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/p2">
+        <file>icon/big.png</file>
+        <file>icon/close.png</file>
+        <file>icon/open.png</file>
+        <file>icon/small.png</file>
+        <file>icon/last.png</file>
+        <file>icon/next.png</file>
+    </qresource>
+</RCC>
